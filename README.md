@@ -4,7 +4,7 @@
 - #### погружен в разработку
 - #### набираюсь опыта
 
-Улучшая существующие продукты и создавая новые, я хочу сделать жизнь современного человека проще и интереснее. Мне нравится ощущение того, как моя работа связана с пользователями, поэтому я начал изучать фронтенд-разработку. В планах освоить бэкенд, что поможет мне лучше взаимодействовать с пользователями и положительно повлияет на совместную работу с другими разработчиками.
+Улучшая существующие продукты и создавая новые, я хочу сделать жизнь современного человека проще и интереснее. Мне нравится ощущение того, как моя работа связана с пользователями, поэтому я начал изучать фронтенд-разработку. В планах освоить бэкенд, что поможет мне лучше взаимодействовать с юзерами и положительно повлияет на совместную работу с другими разработчиками.
 
 ### Технологии :
 <div>
@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/>&nbsp;
